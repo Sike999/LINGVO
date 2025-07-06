@@ -1,9 +1,0 @@
-resout_order.php: 5
-resout_order.php . : 13
-lab09: 1
-Pages05.php: 3
-Pages04.php: 3
-Pages03.php: 3
-Pages02.php: 4
-Pages01.php: 8
-127.0.0.1: 1
